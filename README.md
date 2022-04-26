@@ -8,7 +8,7 @@
  █████   █████░░██████  █████ █████░░██████        ░░███ ░░███     ░░██████  █████     █████░░████████ ███
 ░░░░░   ░░░░░  ░░░░░░  ░░░░░ ░░░░░  ░░░░░░          ░░░   ░░░       ░░░░░░  ░░░░░     ░░░░░  ░░░░░░░░ ░░░ 
 ```
-# **My Name is Samuel
+# **My Name is Samuel**
 
 - 👋 Hi, I’m @SamuelMR98
 - 👀 I’m interested in ...
@@ -17,10 +17,37 @@
 - 📫 How to reach me ...
 
 
-<ion-icon name="heart"></ion-icon>
+         _nnnn_
+        dGGGGMMb
+       @p~qp~~qMb
+       M|@||@) M|
+       @,----.JM|
+      JS^\__/  qKL
+     dZP        qKRb
+    dZP          qKKb
+   fZP            SMMb
+   HZM            MMMM
+   FqM            MMMM
+ __| ".        |\dS"qML
+ |    `.       | `' \Zq
+_)      \.___.,|     .' 
+\____   )MMMMMP|   .'
+     `-'       `--' hjm
+     
+ BBBBBBBBBBBBBBBBBBBBBBBBBBB
+BMB---------------------B B
+BBB---------------------BBB
+BBB---------------------BBB
+BBB---------------------BBB
+BBB---------------------BBB
+BBB---------------------BBB
+BBBBBBBBBBBBBBBBBBBBBBBBBBB
+BBBBB++++++++++++++++BBBBBB
+BBBBB++BBBBB+++++++++BBBBBB
+BBBBB++BBBBB+++++++++BBBBBB
+BBBBB++BBBBB+++++++++BBBBBB
+BBBBB++++++++++++++++BBBBBB
 
-<script type="module" src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.esm.js"></script>
-<script nomodule src="https://unpkg.com/ionicons@5.5.2/dist/ionicons/ionicons.js"></script>
 
 <!---
 SamuelMR98/SamuelMR98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
