@@ -8,7 +8,7 @@
 </p>
 
 <p>
- Chechk out my portfolio @ <a href="https://samuelmr.dev">samuelmr.dev</a>
+ Check out my portfolio <a href="https://samuelmr.dev">@samuelmr.dev</a>
 </p>
 
 
