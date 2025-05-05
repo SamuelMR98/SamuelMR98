@@ -7,6 +7,10 @@
     <em>Student Computer Programmer <a href="https://github.com/byuoitav">@BYU OIT AV Services</a>.
 </p>
 
+<p>
+ Chechk out my portfolio @ <a>samuelmr.dev</a>
+</p>
+
 
 [![Twitter URL](https://img.shields.io/twitter/url?label=%40Samuel_M_R&style=social&url=https%3A%2F%2Ftwitter.com%2FSamuel_M_R)](https://twitter.com/Samuel_M_R)
 [![GitHub followers](https://img.shields.io/github/followers/SamuelMR98?label=SamuelMR98&style=social)](https://github.com/SamuelMR98)
