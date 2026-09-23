@@ -68,7 +68,7 @@ I speak **Español** and **English**; **Português** is a work in progress.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-1a1b26?style=for-the-badge&logo=linkedin&logoColor=7aa2f7)](https://www.linkedin.com/in/smerairc/)
 [![Portfolio](https://img.shields.io/badge/Portfolio-1a1b26?style=for-the-badge&logo=firefoxbrowser&logoColor=bb9af7)](https://samuelmr.dev)
 [![Email](https://img.shields.io/badge/Email-1a1b26?style=for-the-badge&logo=gmail&logoColor=9ece6a)](mailto:smeraric@proton.me)
-[![Instagram](https://img.shields.io/badge/Instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=f7768e)](https://www.instagram.com/samuelmr.jpeg/)
+[![Instagram](https://img.shields.io/badge/Instagram-1a1b26?style=for-the-badge&logo=instagram&logoColor=f7768e)](https://www.instagram.com/samuelmr.jpg/)
 
 ---
 
